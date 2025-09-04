@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mechanical Abduction Brace for Congenital Clubfoot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mechanical Abduction Brace for Congenital Clubfoot</h1>
+    <p>Minor Project (21BMP302L)</p>
+  </header>
+
+  <section id="intro">
+    <h2>Introduction</h2>
+    <p>Clubfoot (Talipes Equinovarus) is a congenital deformity where the foot twists inward and downward. Untreated, it leads to mobility restrictions and disability. Our project aims to design a low-cost, ergonomic mechanical abduction brace with improved compliance.</p>
+  </section>
+
+  <section id="aim">
+    <h2>Aim</h2>
+    <p>To design and develop a mechanical abduction brace using a gear-based adjustment mechanism and lightweight metal rod structure.</p>
+  </section>
+
+  <section id="objectives">
+    <h2>Objectives</h2>
+    <ul>
+      <li>Precise adjustment of abduction (60–70° affected, 40–45° unaffected) and dorsiflexion (10–15°).</li>
+      <li>Lightweight aluminum/stainless steel rods with EVA padding.</li>
+      <li>Ergonomic orthotic shoes with breathable lining & quick-release system.</li>
+      <li>Dynamic hinge for limited foot mobility and compliance.</li>
+    </ul>
+  </section>
+
+  <section id="litreview">
+    <h2>Literature Review</h2>
+    <p>Existing braces (Denis Browne bar, Ponseti brace, dynamic braces) face issues such as rigidity, cost, or lack of precision. Our proposed solution fills the research gap by combining comfort, adjustability, affordability, and compliance monitoring.</p>
+  </section>
+
+  <section id="methodology">
+    <h2>Methodology</h2>
+    <ol>
+      <li>Design gear system for angle adjustments</li>
+      <li>Redesign connecting bar with lightweight padded rods</li>
+      <li>Add orthotic shoes with quick-release system</li>
+      <li>Include dynamic hinge mechanism for mobility</li>
+    </ol>
+  </section>
+
+  <section id="resources">
+    <h2>Required Resources</h2>
+    <ul>
+      <li>Aluminum/stainless steel rods</li>
+      <li>Orthotic shoe base, EVA foam, Velcro straps</li>
+      <li>Hinges, worm gear + spur gear</li>
+      <li>CAD (Fusion 360/SolidWorks/AutoCAD), 3D printer</li>
+    </ul>
+  </section>
+
+  <section id="outcome">
+    <h2>Expected Outcome</h2>
+    <p>A functional prototype with adjustable gear system, padded rods, and compliance tracking sensors. The design ensures comfort, affordability, and better treatment outcomes.</p>
+  </section>
+
+  <section id="gallery">
+    <h2>Project Gallery</h2>
+    <img src="images/cad_model.png" alt="CAD Model" width="400">
+    <img src="images/prototype.png" alt="Prototype Image" width="400">
+  </section>
+
+  <section id="references">
+    <h2>References</h2>
+    <ul>
+      <li><a href="https://my.clevelandclinic.org/health/diseases/16889-clubfoot">Cleveland Clinic – Clubfoot</a></li>
+      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10480528/">PMC Article</a></li>
+      <li><a href="https://www.hss.edu/health-library/conditions-and-treatments/the-ponseti-method-for-clubfoot-correction">HSS – Ponseti Method</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>©️ 2025 | Clubfoot Brace Project | GitHub Portfolio</p>
+  </footer>
+</body>
+</html>
